@@ -1,0 +1,9 @@
+﻿  Video.cpp
+C:\Users\ab1t3\Desktop\myGit\opencv\test1\test1\Video.cpp(33,21): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  main.cpp
+  코드를 생성하고 있습니다.
+  21 of 130 functions (16.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  test1.vcxproj -> C:\Users\ab1t3\Desktop\myGit\opencv\test1\x64\Release\test1.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ab1t3\Desktop\myGit\opencv\test1\test1\main.cpp(12,7): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+C:\Users\ab1t3\Desktop\myGit\opencv\test1\test1\main.cpp(27,21): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  test1.vcxproj -> C:\Users\ab1t3\Desktop\myGit\opencv\test1\x64\Debug\test1.exe
