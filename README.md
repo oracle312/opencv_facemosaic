@@ -34,5 +34,5 @@
 
 ### 🖥️ 결과물
 ---
-
+![test](https://github.com/oracle312/opencv_facemosaic/assets/72733953/2d8922b7-6896-4a5a-9286-388745d2bd91)
 
