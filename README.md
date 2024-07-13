@@ -16,7 +16,7 @@
 ---
 + C++
 + openCV Library
-+ VisualStudio, GitHub
++ VisualStudio, GitHub,
 <br/><br/><br/>
 
 
